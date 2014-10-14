@@ -1,0 +1,4 @@
+1. To see which lines are modified and double check whether there is name error
+or others.
+
+2. Use command lines to access history easier.
